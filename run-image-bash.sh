@@ -1,0 +1,1 @@
+winpty docker run -it --rm --env ANSIBLE_HOST_KEY_CHECKING=False --mount type=bind,src=//c/Users/gfr/Documents/Projekte/Agmedia/local_repository/agmedia-k8s,dst=//var/workspace mikrowerk/ubuntu-ansible:20.04 bash

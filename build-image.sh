@@ -1,0 +1,1 @@
+docker build -t mikrowerk/ubuntu-ansible:20.04 .

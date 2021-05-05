@@ -1,0 +1,1 @@
+docker run -v C:/Users/gfr/Documents/Projekte/Agmedia/local_repository/agmedia-k8s:/workspace mikrowerk/ubuntu-ansible:20.04 ls -al /workspace
